@@ -21,6 +21,7 @@ ul {
 
 a {
   color: #333;
+  text-decoration: none;
 }
 
 h1,
@@ -37,7 +38,7 @@ img {
   width: 100%;
 }
 
-/* Navbar */
+/* Navbar - flexbox*/
 .navbar {
   display: flex;
   align-items: center;
@@ -73,10 +74,6 @@ img {
 
 .navbar .logo {
   font-weight: 400;
-}
-
-.nav-li a {
-  text-decoration: none;
 }
 
 /* Header */
@@ -150,7 +147,7 @@ iframe {
 
 /* Icons */
 .icons {
-  padding: 30px;
+  padding: 10px;
 }
 
 .icons h3 {
