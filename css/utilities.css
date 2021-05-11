@@ -1,6 +1,6 @@
 /* Text colors */
 .text-primary {
-  color: #28a745;
+  color: #1289ad;
 }
 
 .text-secondary {
@@ -14,7 +14,7 @@
   display: inline-block;
   padding: 10px 30px;
   color: #fff;
-  background-color: #28a745;
+  background-color: #1289ad;
   border: none;
   border-radius: 5px;
   text-decoration: none;
@@ -26,7 +26,7 @@
 
 .btn-primary,
 .bg-primary {
-  background: #28a745;
+  background: #1289ad;
   color: #fff;
 }
 
