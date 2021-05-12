@@ -147,7 +147,7 @@ iframe {
 
 /* Icons */
 .icons {
-  padding: 10px;
+  padding: 20px;
 }
 
 .icons h3 {
@@ -228,11 +228,11 @@ iframe {
 /* Footer */
 .footer {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   align-items: center;
   justify-content: center;
   text-align: center;
-  height: 200px;
+  height: 100px;
 }
 
 .footer a {
