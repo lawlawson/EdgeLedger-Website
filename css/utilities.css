@@ -50,6 +50,11 @@
   color: #333;
 }
 
+.bg-alternative {
+  background: #1289ad;
+  color: #fff;
+}
+
 .btn-outline {
   background: transparent;
   border: 1px solid #fff;
