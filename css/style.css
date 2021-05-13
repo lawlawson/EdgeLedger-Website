@@ -277,4 +277,20 @@ iframe {
   .team img {
     width: 70%;
   }
+
+  .footer {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    padding: 5px;
+  }
+
+  .social {
+    display: flex;
+    flex-direction: row;
+  }
+
+  .copy-footer {
+    margin: 5px;
+  }
 }
