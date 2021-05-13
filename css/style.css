@@ -204,14 +204,15 @@ iframe {
 
 /* Post */
 .post {
-  padding: 50px 30px;
+  padding: 0 60px;
+  text-align: justify;
 }
 
 .post h2 {
   font-size: 40px;
   margin-bottom: 20px;
   padding-bottom: 10px;
-  border-bottom: #ccc solid 1px;
+  border-bottom: #1289ad solid 1px;
 }
 
 .post .meta {
@@ -219,10 +220,12 @@ iframe {
 }
 
 .post img {
-  width: 300px;
-  border-radius: 10px;
   display: block;
-  /* margin: 0 auto 30px; */
+  margin: 0 auto 30px;
+}
+
+.post-content {
+  margin: 50px 200px;
 }
 
 /* Footer */
@@ -232,7 +235,7 @@ iframe {
   align-items: center;
   justify-content: left;
   text-align: left;
-  height: 100px;
+  height: 65px;
   padding-left: 20px;
 }
 
